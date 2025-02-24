@@ -5,7 +5,7 @@ date: 2025-02-23 09:00:00
 description: Balancing an image classification dataset using synthetic images
 tags: GAN image-classification deep-learning keras
 # categories: transformers
-# thumbnail: assets/img/blog/2025-01-07-story-gen/gpu.webp
+thumbnail: assets/img/blog/2025-02-23-cgan-class/thumbnail.webp
 featured: false
 ---
 
