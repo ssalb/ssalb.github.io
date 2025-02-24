@@ -74,7 +74,7 @@ but they're also not as complex as _Industrial Buildings_ or _Residential Buildi
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/blog/2025-02-23-cgan-class/Eurosat_training_distr.png" 
+            path="assets/img/blog/2025-02-23-cgan-class/eurosat_training_distr.png" 
             class="img-fluid rounded z-depth-1" 
             zoomable=true
         %}
@@ -82,7 +82,7 @@ but they're also not as complex as _Industrial Buildings_ or _Residential Buildi
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/blog/2025-02-23-cgan-class/Eurosat_unbalanced_distr.png" 
+            path="assets/img/blog/2025-02-23-cgan-class/eurosat_unbalanced_distr.png" 
             class="img-fluid rounded z-depth-1" 
             zoomable=true
         %}
