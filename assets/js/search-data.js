@@ -45,6 +45,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/test-time-compute-story-generation/";
         
       },
+    },{id: "post-if-your-company-is-not-doing-ml-it-probably-won-t-start-any-time-soon-either",
+      
+        title: "If your company is not doing ML, it (probably) won’t start any time...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/company-no-ml/";
+        
+      },
     },{
         id: 'social-github',
         title: 'GitHub',
