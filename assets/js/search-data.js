@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-conditional-gan-for-data-augmentation-a-cautionary-tale",
+        },{id: "post-from-docs-to-answers-my-smolagents-docling-duckdb-experiment",
+      
+        title: "From Docs to Answers: My Smolagents + Docling + DuckDB Experiment 🤖",
+      
+      description: "Testing smolagents, docling, and duckdb through an agent that RAGs for you.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/auto-rag-agent/";
+        
+      },
+    },{id: "post-a-conditional-gan-for-data-augmentation-a-cautionary-tale",
       
         title: "A Conditional GAN for Data Augmentation: A Cautionary Tale",
       
