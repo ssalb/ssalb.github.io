@@ -27,6 +27,8 @@ what could I possibly do with them? 🤔 **An agent that ingests documents and *
 This article shares my first experience and impressions while building a *smol* prototype agent that ingests your documents, 
 indexes them for retrieval, and answers questions about their content.
 
+Do you want to see the code? [Here's the repo](https://github.com/ssalb/auto-rag-agent) too!
+
 ## The Stack
 
 This project uses several well-known packages—including *transformers* and *sentence-transformers* for LLMs and embeddings, plus *Gradio* for the UI. 
