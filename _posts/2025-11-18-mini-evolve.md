@@ -5,7 +5,7 @@ date: 2025-11-18 09:00:00
 description: "Exploring how LLMs can write, test, and evolve code to solve problems, inspired by DeepMind's AlphaEvolve but built on a laptop."
 tags: agents evolutionary-algorithms llms test-time-compute
 # categories: transformers
-thumbnail: # TODO: assets/img/blog/2025-11-24-mini-evolve/thumbnail.png
+thumbnail: assets/img/blog/2025-11-18-mini-evolve/thumbnail.png
 images:
   slider: true
 featured: false
