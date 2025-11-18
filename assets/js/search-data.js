@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-from-docs-to-answers-my-smolagents-docling-duckdb-experiment",
+        },{id: "post-evolving-code-at-test-time-building-a-mini-alphaevolve-on-my-laptop",
+      
+        title: "Evolving Code at Test Time — Building a Mini AlphaEvolve on My Laptop...",
+      
+      description: "Exploring how LLMs can write, test, and evolve code to solve problems, inspired by DeepMind&#39;s AlphaEvolve but built on a laptop.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/mini-evolve/";
+        
+      },
+    },{id: "post-from-docs-to-answers-my-smolagents-docling-duckdb-experiment",
       
         title: "From Docs to Answers: My Smolagents + Docling + DuckDB Experiment 🤖",
       
