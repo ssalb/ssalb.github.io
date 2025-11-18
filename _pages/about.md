@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Engineering | Science | ML
+subtitle: Data & ML Engineering | Science
 
 profile:
   align: right
